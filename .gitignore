@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.pem
+known_hosts
+logs/
+runs/
+outputs/
+checkpoints/
+*.safetensors
+*.pt
+.pytest_cache/
